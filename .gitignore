@@ -5,3 +5,8 @@ data/
 *.pt
 *.pth
 .env
+
+
+# Added by cargo
+
+/target
